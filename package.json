@@ -1,0 +1,40 @@
+{
+  "name": "upwork-job-fit-scorer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Score pasted freelance job posts against a local skills profile. Rules by default; optional OpenAI-compatible notes.",
+  "type": "module",
+  "bin": {
+    "upwork-job-fit-scorer": "./dist/src/cli.js"
+  },
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/src/index.d.ts",
+      "import": "./dist/src/index.js"
+    }
+  },
+  "files": [
+    "dist/src",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "tsc -p tsconfig.json && node --test --test-reporter spec dist/tests/*.test.js",
+    "scorer": "node dist/src/cli.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "typescript": "^5.7.3"
+  }
+}

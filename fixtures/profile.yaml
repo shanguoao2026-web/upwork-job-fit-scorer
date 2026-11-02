@@ -1,0 +1,16 @@
+# Fictional freelancer. Not a real person.
+name: Jordan Hale
+title: Full-stack TypeScript developer
+skills:
+  - name: TypeScript
+    aliases: [ts]
+  - name: Node.js
+    aliases: [node, nodejs]
+  - PostgreSQL
+  - React
+hourly_floor: 55
+reference_hours: 10
+currency: USD
+red_flags:
+  - kindly do the needful
+  - send a copy of your id

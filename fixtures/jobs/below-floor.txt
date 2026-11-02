@@ -1,0 +1,18 @@
+React form polish for Maple and Co.
+
+Maple and Co. is a fictional studio. They need help cleaning up an existing React and TypeScript settings form. The design is already decided and the copy is final.
+
+You will:
+- Fix validation messages on the React form
+- Match the spacing in the attached mock
+
+Requirements are listed in the repository README.
+
+Timeline: 2 weeks.
+
+Hourly: $40/hr
+
+Payment method verified
+Rating: 4.6
+2 hires
+Member since 2024

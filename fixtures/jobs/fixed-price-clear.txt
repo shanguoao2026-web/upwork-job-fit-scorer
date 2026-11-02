@@ -1,0 +1,28 @@
+Postgres reporting queries for Brightlane Analytics
+
+Brightlane Analytics is a fictional company. They need parameterized reporting queries and a thin TypeScript service in front of PostgreSQL. Node.js is already the runtime. An analyst owns the charts, so this contract stops at the service boundary.
+
+The reporting desk is fictional sample copy and describes no real client. The reporting desk is fictional sample copy and describes no real client. The reporting desk is fictional sample copy and describes no real client. The reporting desk is fictional sample copy and describes no real client.
+
+You will:
+- Add four parameterized queries
+- Cover them with a small test list
+- Document each input
+
+Deliverables:
+- SQL files
+- A TypeScript module that runs the queries
+- Acceptance criteria in the README
+
+Requirements:
+- Must have PostgreSQL and Node.js experience
+
+Timeline: 3 weeks. The work is about 20 hours.
+
+Budget: $2200
+
+Payment method verified
+Rating: 4.95
+$12,000 spent
+11 hires
+Member since 2019

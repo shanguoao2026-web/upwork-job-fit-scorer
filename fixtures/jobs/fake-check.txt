@@ -1,0 +1,7 @@
+Data entry clerk for Harbor Parcel Co.
+
+Simple task for a fictional shipper. We will mail a cashier's check. Use mobile deposit and wire the difference back to the shipper. The overpayment covers supplies.
+
+Email me directly at jobs@example.com so we can take this conversation off-platform.
+
+Send a copy of your ID to get started.

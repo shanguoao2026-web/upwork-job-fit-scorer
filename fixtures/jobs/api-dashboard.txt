@@ -1,0 +1,32 @@
+Build an internal analytics API for Northwind Studio
+
+Northwind Studio is a fictional product lab used only as sample text. The analytics desk currently pastes CSV exports into a shared workbook, and reviewers cannot tell which rows changed after an import. The replacement is a small internal service plus one review screen for three operations staff. Keep the first version boring and reliable. The column list and the access rules are already settled. A new teammate should be able to run the service from the README on a laptop.
+
+The workbook export is fictional sample copy for this fixture and describes no real client. The workbook export is fictional sample copy for this fixture and describes no real client. The workbook export is fictional sample copy for this fixture and describes no real client. The workbook export is fictional sample copy for this fixture and describes no real client.
+
+You will:
+- Design a JSON API in TypeScript on Node.js
+- Store events in PostgreSQL
+- Ship a React page that filters the last 30 days
+- Write acceptance criteria for each milestone
+
+Deliverables:
+- A documented API
+- Migration scripts
+- A short handover note
+
+Requirements:
+- You must have production TypeScript experience
+- We need weekly check-ins on the timeline
+
+Timeline: 6 weeks, with the first milestone due by Friday of week 2.
+
+This is a long-term engagement if the first release goes well.
+
+Hourly rate: $75 - $95/hr
+
+Payment method verified
+Rating: 4.9
+$25K+ spent
+18 hires
+Member since 2018
